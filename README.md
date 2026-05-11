@@ -1,5 +1,7 @@
 # Instagram UI Concept Clone
 
+Live link: https://nikhilvermainstaclone.netlify.app/
+
 A multi-page frontend UI project inspired by Instagram's design language. This project features a modular tab-based navigation system and custom-themed content discoveries, including specialized trending sections for Anime, Marvel, and Space.
 
 ## 🚀 Overview
